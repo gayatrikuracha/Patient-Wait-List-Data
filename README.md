@@ -32,5 +32,9 @@ Columns such as "specialty name" were renamed to ensure consistency across datas
 - Include data for geriatric patients (over 64) to provide a more comprehensive picture.
 
 # Limitations
--Temporal Coverage: The dataset spans from January 2018 to March 2021, which may restrict the ability to capture long-term trends or seasonal variations beyond this timeframe. 
+- Temporal Coverage: The dataset spans from January 2018 to March 2021, which may restrict the ability to capture long-term trends or seasonal variations beyond this timeframe. 
 - While the dataset includes information for patients aged 64 and below, data for geriatric patients (over 64 years old) is not available.
+
+# References
+Patient Wait List Data : [Link]
+Power Bi Dashboard : [Link]
