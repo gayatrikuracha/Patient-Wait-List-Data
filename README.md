@@ -36,5 +36,7 @@ Columns such as "specialty name" were renamed to ensure consistency across datas
 - While the dataset includes information for patients aged 64 and below, data for geriatric patients (over 64 years old) is not available.
 
 # References
-Patient Wait List Data : [Link]
-Power Bi Dashboard : [Link]
+Patient Wait List Data : [Link](https://github.com/gayatrikuracha/Patient-Wait-List-Data/tree/main/Data)
+Power Bi Dashboard : [Link](https://github.com/gayatrikuracha/Patient-Wait-List-Data/blob/main/Patient%20Wait%20list%20dashboard.pbix)
+
+
