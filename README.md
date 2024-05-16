@@ -1,7 +1,9 @@
 # Patient Wait List Analysis
 # Project overview
 Project utilizes Power BI to analyze inpatient and outpatient data related to patient waitlists, examining trends, distribution across case types and age profiles, and identifying specialties with long wait times. The insights gained aim to aid healthcare administrators and practitioners in optimizing waitlist management, improving efficiency, and ensuring timely patient care. Through thorough data transformation, modeling, and analysis, actionable findings and recommendations are provided to enhance the patient waitlist management process.
-![Screenshot 2024-05-16 143734](https://github.com/gayatrikuracha/Patient-Wait-List-Data/assets/167384815/3021192f-fc09-43f9-8cc5-cfc92d4c802a)
+![pwlt snip](https://github.com/gayatrikuracha/Patient-Wait-List-Data/assets/167384815/4b8f2015-5fbf-49ea-af9f-1d6386e4e705)
+
+
 
 
 # Data source
